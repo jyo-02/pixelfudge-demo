@@ -18,6 +18,11 @@ Pixel Fudge is a modern full-stack SaaS platform for **editing images and videos
 
 ---
 
+## Preview
+
+![App Screenshot](./pixelfudgepic.png)
+
+
 ## 🧱 Tech Stack
 
 | Layer              | Technology            |
